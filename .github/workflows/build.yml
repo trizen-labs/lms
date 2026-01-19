@@ -44,11 +44,21 @@ jobs:
 
       - name: Set Image Tag
         run: |
-          echo "IMAGE_TAG=latest" >> $GITHUB_ENV
+          if [[ ! "${{ github.ref_name }}" =~ (alpha|beta|rc) ]]; then
+            echo "IMAGE_TAG=latest" >> $GITHUB_ENV
+          fi
       - uses: actions/checkout@v4
         with:
           repository: frappe/frappe_docker
           path: builds
+
+      - name: Set Tags
+        run: |
+          TAGS="ghcr.io/${{ github.repository }}:${{ github.ref_name }}"
+          if [[ -n "${{ env.IMAGE_TAG }}" ]]; then
+            TAGS="$TAGS,ghcr.io/${{ github.repository }}:${{ env.IMAGE_TAG }}"
+          fi
+          echo "TAGS=$TAGS" >> $GITHUB_ENV
 
       - name: Build and push
         uses: docker/build-push-action@v6
@@ -56,9 +66,7 @@ jobs:
           push: true
           context: builds
           file: builds/images/layered/Containerfile
-          tags: >
-            ghcr.io/${{ github.repository }}:${{ github.ref_name }},
-            ghcr.io/${{ github.repository }}:${{ env.IMAGE_TAG }}
+          tags: ${{ env.TAGS }}
           build-args: |
             "FRAPPE_BRANCH=${{ env.FRAPPE_BRANCH }}"
             "APPS_JSON_BASE64=${{ env.APPS_JSON_BASE64 }}"

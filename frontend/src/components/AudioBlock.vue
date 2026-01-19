@@ -3,7 +3,7 @@
 		<!-- <audio width="100%" controls controlsList="nodownload" class="mb-4">
 			<source :src="encodeURI(file)" type="audio/mp3" />
 		</audio> -->
-		<audio @ended="handleAudioEnd" controlsList="nodownload" class="mb-4">
+		<audio ref="audioElement" @ended="handleAudioEnd" controlsList="nodownload" class="mb-4">
 			<source :src="encodeURI(file)" type="audio/mp3" />
 		</audio>
 		<div class="flex items-center space-x-2 shadow rounded-lg p-1 w-1/2">
@@ -41,6 +41,7 @@ import { Play, Pause, Volume2, VolumeX } from 'lucide-vue-next'
 import { Button } from 'frappe-ui'
 
 const isPlaying = ref(false)
+const audioElement = ref(null)
 const audio = ref(null)
 let isMuted = ref(false)
 let currentTime = ref(0)
@@ -55,7 +56,7 @@ const props = defineProps({
 
 onMounted(() => {
 	setTimeout(() => {
-		audio.value = document.querySelector('audio')
+		audio.value = audioElement.value
 		audio.value.onloadedmetadata = () => {
 			duration.value = audio.value.duration
 		}
