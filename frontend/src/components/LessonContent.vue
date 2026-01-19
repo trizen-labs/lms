@@ -57,6 +57,11 @@
 			>
 			</iframe>
 		</div>
+		<div v-else-if="block.trim() === '---' || block.trim() === '***'">
+			<div class="lesson-divider">
+				<hr class="lesson-divider__line" />
+			</div>
+		</div>
 		<div v-else v-html="markdown.render(block)"></div>
 	</div>
 	<div v-if="quizId">

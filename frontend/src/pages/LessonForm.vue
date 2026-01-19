@@ -354,6 +354,11 @@ const convertToJSON = (lessonData) => {
 					level: level,
 				},
 			})
+		} else if (block.trim() === '---' || block.trim() === '***') {
+			blocks.push({
+				type: 'divider',
+				data: {},
+			})
 		} else {
 			blocks.push({
 				type: 'paragraph',

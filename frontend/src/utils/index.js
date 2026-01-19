@@ -6,6 +6,7 @@ import { Program } from '@/utils/program'
 import { Assignment } from '@/utils/assignment'
 import { Upload } from '@/utils/upload'
 import { Markdown } from '@/utils/markdownParser'
+import { Divider } from '@/utils/divider'
 import { useSettings } from '@/stores/settings'
 import { usersStore } from '@/stores/user'
 import Header from '@editorjs/header'
@@ -152,6 +153,7 @@ export function getEditorTools() {
 				useDefaultTheme: 'dark',
 			},
 		},
+		divider: Divider,
 		inlineCode: {
 			class: InlineCode,
 			shortcut: 'CMD+SHIFT+M',

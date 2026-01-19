@@ -170,6 +170,18 @@ textarea.field-input {
 	padding-top: 0.5rem;
 }
 
+.lesson-divider {
+	padding: 1rem 0;
+	margin: 0.5rem 0;
+}
+
+.lesson-divider__line {
+	border: none;
+	border-top: 2px solid var(--gray-200);
+	margin: 0;
+	width: 100%;
+}
+
 .lesson-parent .breadcrumb {
 	border-bottom: 1px solid var(--gray-300);
 	margin-bottom: 2rem;
