@@ -150,10 +150,10 @@ const question = reactive({
 
 const populateFields = () => {
 	let fields = ['option', 'is_correct', 'explanation', 'possibility']
-	let counter = 1
 	fields.forEach((field) => {
+		let counter = 1
 		while (counter <= 4) {
-			question[`${field}_${counter}`] = field === 'is_correct' ? false : null
+			question[`${field}_${counter}`] = field === 'is_correct' ? false : ''
 			counter++
 		}
 	})
@@ -191,6 +191,10 @@ const questionData = createResource({
 			question[`is_correct_${counter}`] = data[`is_correct_${counter}`]
 				? true
 				: false
+			// Ensure explanation fields are properly populated
+			question[`explanation_${counter}`] = data[`explanation_${counter}`] || ''
+			question[`option_${counter}`] = data[`option_${counter}`] || ''
+			question[`possibility_${counter}`] = data[`possibility_${counter}`] || ''
 			counter++
 		}
 		question.marks = props.questionDetail.marks
