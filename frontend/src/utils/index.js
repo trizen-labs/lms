@@ -11,6 +11,7 @@ import { usersStore } from '@/stores/user'
 import Header from '@editorjs/header'
 import Paragraph from '@editorjs/paragraph'
 import { CodeBox } from '@/utils/code'
+import { Divider } from '@/utils/divider'
 import NestedList from '@editorjs/nested-list'
 import InlineCode from '@editorjs/inline-code'
 import dayjs from '@/utils/dayjs'
@@ -129,6 +130,9 @@ export function getEditorTools() {
 		table: {
 			class: Table,
 			inlineToolbar: true,
+		},
+		divider: {
+			class: Divider,
 		},
 		quiz: Quiz,
 		assignment: Assignment,
