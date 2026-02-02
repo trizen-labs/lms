@@ -1,0 +1,14 @@
+# Site Configuration for Large File Uploads
+# Add these settings to your site_config.json
+
+{
+    "max_file_size": 1073741824,
+    "file_watcher_ignore_list": ["*.tmp", "*.temp"],
+    "limits": {
+        "post_data_size": 1073741824,
+        "file_size": 1073741824
+    },
+    "upload_timeout": 600,
+    "socketio_ping_timeout": 600000,
+    "socketio_ping_interval": 25000
+}

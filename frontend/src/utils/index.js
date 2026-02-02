@@ -649,10 +649,29 @@ export const validateFile = async (
 		console.error(msg)
 		return msg
 	}
+	
+	// Check file type
 	if (!file.type.startsWith(`${fileType}/`)) {
 		return error(__('Only {0} file is allowed.').format(fileType))
 	}
 
+	// Get upload limits from server
+	let maxFileSize = 1024 * 1024 * 1024 // Default 1GB
+	try {
+		const limits = await call('lms.lms.upload_config.get_upload_limits')
+		maxFileSize = limits.max_file_size
+	} catch (e) {
+		console.warn('Could not fetch upload limits, using default')
+	}
+
+	// Check file size
+	if (file.size > maxFileSize) {
+		const maxSizeMB = Math.round(maxFileSize / (1024 * 1024))
+		const fileSizeMB = Math.round(file.size / (1024 * 1024))
+		return error(__('File size ({0} MB) exceeds maximum allowed size ({1} MB)').format(fileSizeMB, maxSizeMB))
+	}
+
+	// SVG security check
 	if (file.type === 'image/svg+xml') {
 		const text = await file.text()
 
