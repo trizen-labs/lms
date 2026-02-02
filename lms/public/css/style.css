@@ -4,7 +4,8 @@
 	--text-4xl: 36px;
 }
 
-body {
+/* Scope body styles to LMS pages only */
+.lms-page, .lms-page body, .website-body {
 	font-size: var(--text-base);
 }
 
@@ -243,7 +244,7 @@ textarea.field-input {
 	margin-left: 1.5rem;
 }
 
-input[type=checkbox] {
+.lms-page input[type=checkbox], .website-body input[type=checkbox] {
 	appearance: auto;
 	position: relative;
 	width: var(--checkbox-size) !important;
@@ -1003,7 +1004,7 @@ input[type=checkbox] {
 	font-size: var(--text-sm);
 }
 
-pre {
+.lms-page pre, .website-body pre {
   width: 100%;
   overflow-x: auto;
 }
@@ -1621,7 +1622,7 @@ pre {
 	border: 1px solid var(--primary-color);
 }
 
-li {
+.lms-page li, .website-body li {
 	line-height: 1.7;
 }
 
@@ -1922,7 +1923,7 @@ li {
 	padding-bottom: 2.5rem;
 }
 
-input::file-selector-button {
+.lms-page input::file-selector-button, .website-body input::file-selector-button {
 	border-radius: var(--border-radius);
 	font-size: var(--text-md);
 	padding: 0.25rem 1.25rem;
@@ -1931,7 +1932,7 @@ input::file-selector-button {
 	cursor: pointer;
 }
 
-input::file-selector-button:hover {
+.lms-page input::file-selector-button:hover, .website-body input::file-selector-button:hover {
 	background-color: var(--gray-400);
 }
 
@@ -1939,7 +1940,7 @@ input::file-selector-button:hover {
 	font-weight: 400;
 }
 
-select {
+.lms-page select, .website-body select {
 	appearance: none;
 	-webkit-appearance: none;
 }
