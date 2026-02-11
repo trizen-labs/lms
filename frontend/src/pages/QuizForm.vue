@@ -274,9 +274,9 @@ onBeforeUnmount(() => {
 })
 
 watch(
-	() => props.quizID !== 'new',
+	() => props.quizID,
 	(newVal) => {
-		if (newVal) {
+		if (newVal && newVal !== 'new') {
 			quizDetails.reload()
 		}
 	}
@@ -289,9 +289,21 @@ const quizDetails = createDocumentResource({
 	onSuccess(doc) {
 		if (doc.questions && doc.questions.length > 0) {
 			questions.value = doc.questions.map((question) => question)
+		} else {
+			questions.value = []
 		}
 	},
 })
+
+watch(
+	() => quizDetails.doc,
+	(doc) => {
+		if (doc && doc.questions && doc.questions.length > 0) {
+			questions.value = doc.questions.map((question) => question)
+		}
+	},
+	{ immediate: true }
+)
 
 const validateTitle = () => {
 	quizDetails.doc.title = escapeHTML(quizDetails.doc.title.trim())
