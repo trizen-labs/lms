@@ -132,7 +132,7 @@
 							</div>
 						</template>
 					</Tooltip>
-					<Tooltip :text="__('Powered by Trizen Labs')">
+					<Tooltip :text="__('Powered by Trizen Labs \nv1.0.1-alpha.5')">
 						<Zap
 							class="size-4 stroke-1.5 text-ink-gray-7 cursor-pointer"
 							@click="redirectToWebsite()"
