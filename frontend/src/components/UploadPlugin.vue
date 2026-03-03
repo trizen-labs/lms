@@ -38,13 +38,13 @@ const addFile = (file) => {
 
 const validateFile = (file) => {
 	let extension = file.name.split('.').pop().toLowerCase()
-	if (!['jpg', 'jpeg', 'png', 'mp4', 'mov', 'mp3', 'pdf'].includes(extension)) {
-		return 'Only image and video files are allowed.'
+	if (!['jpg', 'jpeg', 'png', 'mp4', 'mov', 'avi', 'mkv', 'webm', 'mpeg', 'mpg', 'mp3', 'wav', 'ogg', 'pdf'].includes(extension)) {
+		return 'Only image, video, audio, and PDF files are allowed.'
 	}
 }
 
 const isVideo = (type) => {
-	return ['mov', 'mp4', 'avi', 'mkv', 'webm'].includes(type.toLowerCase())
+	return ['mov', 'mp4', 'avi', 'mkv', 'webm', 'mpeg', 'mpg'].includes(type.toLowerCase())
 }
 
 const isAudio = (type) => {
