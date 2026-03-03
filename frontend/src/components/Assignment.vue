@@ -246,9 +246,11 @@ onBeforeUnmount(() => {
 
 const assignment = createResource({
 	url: 'frappe.client.get',
-	params: {
-		doctype: 'LMS Assignment',
-		name: props.assignmentID,
+	makeParams() {
+		return {
+			doctype: 'LMS Assignment',
+			name: props.assignmentID,
+		}
 	},
 	auto: true,
 	onSuccess(data) {
@@ -297,7 +299,7 @@ const submissionResource = createDocumentResource({
 		toast.error(err.messages?.[0] || err)
 	},
 	auto: false,
-	cache: [user.data?.name, props.assignmentID],
+	cache: false,
 })
 
 watch(submissionResource, () => {
@@ -441,6 +443,38 @@ const removeSubmission = () => {
 	isDirty.value = true
 	submissionFile.value = null
 }
+
+const resetAssignmentState = () => {
+	answer.value = null
+	submissionFile.value = null
+	comments.value = null
+	isDirty.value = false
+}
+
+watch(
+	() => props.assignmentID,
+	(newID, oldID) => {
+		if (newID && newID !== oldID) {
+			resetAssignmentState()
+			assignment.reload()
+		}
+	}
+)
+
+watch(
+	() => props.submissionName,
+	(newName, oldName) => {
+		if (newName && newName !== oldName) {
+			resetAssignmentState()
+			if (newName !== 'new') {
+				submissionResource.name = newName
+				submissionResource.reload()
+			} else {
+				submissionResource.reset()
+			}
+		}
+	}
+)
 
 const canGradeSubmission = computed(() => {
 	return (

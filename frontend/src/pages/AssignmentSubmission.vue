@@ -15,7 +15,7 @@
 </template>
 <script setup>
 import { Breadcrumbs, createResource, usePageMeta } from 'frappe-ui'
-import { computed, inject, onMounted, ref } from 'vue'
+import { computed, inject, onMounted, ref, watch } from 'vue'
 import { sessionStore } from '../stores/session'
 import Assignment from '@/components/Assignment.vue'
 
@@ -36,15 +36,26 @@ const props = defineProps({
 
 const title = createResource({
 	url: 'frappe.client.get_value',
-	params: {
-		doctype: 'LMS Assignment',
-		fieldname: 'title',
-		filters: {
-			name: props.assignmentID,
-		},
+	makeParams() {
+		return {
+			doctype: 'LMS Assignment',
+			fieldname: 'title',
+			filters: {
+				name: props.assignmentID,
+			},
+		}
 	},
 	auto: true,
 })
+
+watch(
+	() => props.assignmentID,
+	(newID) => {
+		if (newID) {
+			title.reload()
+		}
+	}
+)
 
 onMounted(() => {
 	if (!user.data) {
