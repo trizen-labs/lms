@@ -1,0 +1,18 @@
+# Terraform state — use remote backend (S3) in production
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# Real var files (may contain secrets)
+terraform.tfvars
+
+# Generated SSH private key
+*.pem
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Terraform plan output
+*.tfplan

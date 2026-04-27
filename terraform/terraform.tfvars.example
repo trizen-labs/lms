@@ -1,0 +1,40 @@
+# Copy this file to terraform.tfvars and fill in your values.
+# cp terraform.tfvars.example terraform.tfvars
+
+# ─── Required ────────────────────────────────────────────────────────────────
+
+# Your domain name — an A record must be created pointing to the Elastic IP
+# that Terraform outputs.
+domain_name = "lms.yourdomain.com"
+
+# Email used for Let's Encrypt SSL certificate (required by ACME protocol)
+admin_email = "you@yourdomain.com"
+
+# ─── Optional ────────────────────────────────────────────────────────────────
+
+# AWS region
+aws_region = "us-east-1"
+
+# Name prefix for all AWS resources
+project_name = "frappe-lms"
+
+# EC2 instance size. t3.medium (2 vCPU / 4 GB) is the minimum.
+# Upgrade to t3.large (8 GB) for heavier load.
+instance_type = "t3.medium"
+
+# LMS image version: "stable", "develop", or a specific git tag like "v1.5.0"
+lms_version = "stable"
+
+# Root volume size in GB
+root_volume_size_gb = 30
+
+# CIDR range allowed to SSH. Restrict to your IP for security.
+# Find your IP: curl ifconfig.me
+allowed_ssh_cidr = "0.0.0.0/0"   # Replace with YOUR_IP/32
+
+# ─── Route 53 (optional) ─────────────────────────────────────────────────────
+# If you manage DNS in Route 53, set your hosted zone ID here.
+# Terraform will automatically create the A record pointing to the Elastic IP.
+# Leave empty ("") to manage DNS manually.
+route53_zone_id = ""
+# route53_zone_id = "Z1234567890ABCDE"
