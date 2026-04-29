@@ -1,0 +1,76 @@
+﻿{
+    "name":  "batch-01",
+    "owner":  "shansanira@gmail.com",
+    "creation":  "2025-10-16 19:07:47.133145",
+    "modified":  "2025-10-16 19:08:03.600851",
+    "modified_by":  "shansanira@gmail.com",
+    "docstatus":  0,
+    "idx":  0,
+    "title":  "Batch 01",
+    "start_date":  "2025-10-16",
+    "end_date":  "2025-12-16",
+    "start_time":  "11:00:00",
+    "end_time":  "13:00:00",
+    "timezone":  "EST",
+    "published":  1,
+    "allow_self_enrollment":  0,
+    "certification":  0,
+    "description":  "Description",
+    "zoom_account":  "",
+    "medium":  "",
+    "category":  "",
+    "confirmation_email_template":  "",
+    "seat_count":  0,
+    "notification_sent":  0,
+    "batch_details":  "\u003cp\u003eBatch 01\u003c/p\u003e",
+    "show_live_class":  0,
+    "allow_future":  1,
+    "paid_batch":  0,
+    "amount":  0.0,
+    "currency":  "",
+    "amount_usd":  0.0,
+    "doctype":  "LMS Batch",
+    "instructors":  [
+                        {
+                            "name":  "vuvfrdfpas",
+                            "owner":  "shansanira@gmail.com",
+                            "creation":  "2025-10-16 19:07:47.133145",
+                            "modified":  "2025-10-16 19:08:03.600851",
+                            "modified_by":  "shansanira@gmail.com",
+                            "docstatus":  0,
+                            "idx":  1,
+                            "instructor":  "shansanira@gmail.com",
+                            "parent":  "batch-01",
+                            "parentfield":  "instructors",
+                            "parenttype":  "LMS Batch",
+                            "doctype":  "Course Instructor"
+                        }
+                    ],
+    "assessment":  [
+
+                   ],
+    "timetable":  [
+
+                  ],
+    "courses":  [
+                    {
+                        "name":  1,
+                        "owner":  "shansanira@gmail.com",
+                        "creation":  "2025-10-16 19:07:47.133145",
+                        "modified":  "2025-10-16 19:08:03.600851",
+                        "modified_by":  "shansanira@gmail.com",
+                        "docstatus":  0,
+                        "idx":  1,
+                        "course":  "beginner-english-grammar-sentence-construction-pronunciation",
+                        "title":  "Beginner English - Grammar, Sentence Construction \u0026 Pronunciation",
+                        "evaluator":  "shansanira@gmail.com",
+                        "parent":  "batch-01",
+                        "parentfield":  "courses",
+                        "parenttype":  "LMS Batch",
+                        "doctype":  "Batch Course"
+                    }
+                ],
+    "timetable_legends":  [
+
+                          ]
+}

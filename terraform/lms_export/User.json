@@ -1,0 +1,3752 @@
+﻿[
+    {
+        "name":  "Guest",
+        "owner":  "Administrator",
+        "creation":  "2025-10-11 19:38:26.422990",
+        "modified":  "2025-10-11 16:27:30.324138",
+        "modified_by":  "Administrator",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "guest@example.com",
+        "first_name":  "Guest",
+        "full_name":  "Guest",
+        "username":  "guest",
+        "verify_terms":  0,
+        "time_zone":  "Europe/Stockholm",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  0,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "login_after":  0,
+        "user_type":  "Website User",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "s48mscif7e",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.424523",
+                          "modified":  "2025-10-11 19:38:26.424523",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Guest",
+                          "parent":  "Guest",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "hasitharidilani@gmail.com",
+        "owner":  "Administrator",
+        "creation":  "2025-10-16 19:12:34.973379",
+        "modified":  "2025-10-16 19:12:35.281996",
+        "modified_by":  "Administrator",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "hasitharidilani@gmail.com",
+        "first_name":  "Hasithari",
+        "full_name":  "Hasithari",
+        "username":  "hasithari",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "b15d2f1e982e28813a524aaf9bcb25a0bb50ff39ca8f18b7f4b5553eee49bf6d",
+        "last_reset_password_key_generated_on":  "2025-10-16 19:12:35.281935",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "login_after":  0,
+        "user_type":  "Website User",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "2oue70lvrb",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-16 19:12:34.973379",
+                          "modified":  "2025-10-16 19:12:35.008185",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "hasitharidilani@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "2ot4lessn9",
+                                  "owner":  "Administrator",
+                                  "creation":  "2025-10-16 19:12:34.992194",
+                                  "modified":  "2025-10-16 19:12:35.008185",
+                                  "modified_by":  "Administrator",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "a14f3351046b8b3e0d0a639b5267a18061b0aa4",
+                                  "parent":  "hasitharidilani@gmail.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "shansanira+student@gmail.com",
+        "owner":  "Administrator",
+        "creation":  "2026-04-18 14:09:26.488663",
+        "modified":  "2026-04-18 14:09:26.661243",
+        "modified_by":  "Administrator",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "shansanira+student@gmail.com",
+        "first_name":  "Sanira Student Acc",
+        "full_name":  "Sanira Student Acc",
+        "username":  "sanira_student_acc",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "open_to":  "",
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "768a36a0ac4d06870c0728ff8b72eb4c69ae73764857dfbd9465027a78d461c9",
+        "last_reset_password_key_generated_on":  "2026-04-18 14:09:26.661184",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "login_after":  0,
+        "user_type":  "Website User",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "351jvbcgs4",
+                          "owner":  "Administrator",
+                          "creation":  "2026-04-18 14:09:26.488663",
+                          "modified":  "2026-04-18 14:09:26.518939",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "shansanira+student@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "35146vp3f6",
+                                  "owner":  "Administrator",
+                                  "creation":  "2026-04-18 14:09:26.504957",
+                                  "modified":  "2026-04-18 14:09:26.518939",
+                                  "modified_by":  "Administrator",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "14a802ee9feff47920baa9a431f3cd7f4c245b0",
+                                  "parent":  "shansanira+student@gmail.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "pubudutr+student@gmail.com",
+        "owner":  "Administrator",
+        "creation":  "2025-10-14 19:17:03.211616",
+        "modified":  "2025-10-14 19:20:40.892730",
+        "modified_by":  "pubudutr+student@gmail.com",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "pubudutr+student@gmail.com",
+        "first_name":  "Pubudu",
+        "full_name":  "Pubudu",
+        "username":  "pubudu",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "",
+        "last_reset_password_key_generated_on":  "2025-10-14 19:17:03.487458",
+        "last_password_reset_date":  "2025-10-14",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.8",
+        "login_after":  0,
+        "user_type":  "Website User",
+        "last_active":  "2025-10-16 19:09:31.222629",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2025-10-16 17:32:09.719223",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "dsptse8glj",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-14 19:17:03.211616",
+                          "modified":  "2025-10-14 19:20:40.554175",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "pubudutr+student@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "dso1iu6559",
+                                  "owner":  "Administrator",
+                                  "creation":  "2025-10-14 19:17:03.262824",
+                                  "modified":  "2025-10-14 19:20:40.554175",
+                                  "modified_by":  "Guest",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "78f444c06874e5e0e354a09c7bfdf903ad0e7d2",
+                                  "parent":  "pubudutr+student@gmail.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "ddinuka66@gmail.com",
+        "owner":  "Administrator",
+        "creation":  "2025-10-16 19:13:00.121338",
+        "modified":  "2025-10-17 07:49:32.366244",
+        "modified_by":  "pubudu.ranasinghe@trizenlabs.com",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "ddinuka66@gmail.com",
+        "first_name":  "Dinuka",
+        "full_name":  "Dinuka",
+        "username":  "dinuka",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "b447659698ca4561aa801f42d1b716dc8087683e139bdb980a492e5817035942",
+        "last_reset_password_key_generated_on":  "2025-10-17 07:49:32.366185",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.8",
+        "login_after":  0,
+        "user_type":  "Website User",
+        "last_active":  "2025-10-20 01:48:12.044488",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2025-10-17 07:58:24.614921",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "htnj2iect5",
+                          "owner":  "pubudu.ranasinghe@trizenlabs.com",
+                          "creation":  "2025-10-17 07:28:24.791845",
+                          "modified":  "2025-10-17 07:28:24.791845",
+                          "modified_by":  "pubudu.ranasinghe@trizenlabs.com",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "ddinuka66@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "30pmvjlhv9",
+                                  "owner":  "Administrator",
+                                  "creation":  "2025-10-16 19:13:00.168748",
+                                  "modified":  "2025-10-16 19:13:00.200860",
+                                  "modified_by":  "Administrator",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "d579ad3f380969590e053f0912d0a6a1ca7c8e0",
+                                  "parent":  "ddinuka66@gmail.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "pubudu.ranasinghe@trizenlabs.com",
+        "owner":  "Administrator",
+        "creation":  "2025-10-11 16:27:29.865427",
+        "modified":  "2025-10-11 16:27:30.042681",
+        "modified_by":  "Administrator",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "pubudu.ranasinghe@trizenlabs.com",
+        "first_name":  "Trizen",
+        "last_name":  "Labs",
+        "full_name":  "Trizen Labs",
+        "username":  "trizen",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.9",
+        "login_after":  0,
+        "user_type":  "System User",
+        "last_active":  "2026-01-07 09:53:10.446648",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2025-12-29 15:52:06.898197",
+        "last_known_versions":  "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"\", \"version\": \"15.85.1\"}, \"lms\": {\"title\": \"Frappe LMS\", \"description\": \"Frappe LMS App\", \"branch\": \"\", \"version\": \"2.38.0\"}}",
+        "onboarding_status":  "{\"learning_onboarding_status\": [{\"name\": \"create_first_course\", \"completed\": true}, {\"name\": \"create_first_chapter\", \"completed\": false}, {\"name\": \"create_first_lesson\", \"completed\": false}, {\"name\": \"create_first_quiz\", \"completed\": false}, {\"name\": \"invite_students\", \"completed\": false}, {\"name\": \"create_first_batch\", \"completed\": false}, {\"name\": \"add_batch_student\", \"completed\": false}, {\"name\": \"add_batch_course\", \"completed\": false}]}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "79j6mo6eou",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Sales Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jmgod1rc",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  2,
+                          "role":  "Accounts User",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jiqi08s1",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  3,
+                          "role":  "System Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jkr5pd5m",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  4,
+                          "role":  "Maintenance Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jm7llhsi",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  5,
+                          "role":  "Newsletter Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79j0p41cd0",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  6,
+                          "role":  "Script Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jvl45gq6",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  7,
+                          "role":  "Inbox User",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79j8hlia13",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  8,
+                          "role":  "Translator",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jrup9d2o",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  9,
+                          "role":  "Batch Evaluator",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jim1kcks",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  10,
+                          "role":  "Website Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jskehva0",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  11,
+                          "role":  "Dashboard Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jev8u45c",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  12,
+                          "role":  "Blogger",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jr61688j",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  13,
+                          "role":  "Knowledge Base Contributor",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jbe9vr8s",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  14,
+                          "role":  "LMS Student",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jtck9oai",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  15,
+                          "role":  "Purchase Master Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79j7rn5ao7",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  16,
+                          "role":  "Sales Master Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jrp14374",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  17,
+                          "role":  "Course Creator",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jf9elhpp",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  18,
+                          "role":  "Purchase User",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jd2hniro",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  19,
+                          "role":  "Knowledge Base Editor",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79j2qfsleb",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  20,
+                          "role":  "Moderator",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jk2h6hmi",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  21,
+                          "role":  "Workspace Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jp292ckn",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  22,
+                          "role":  "Maintenance User",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jtmh7ivh",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  23,
+                          "role":  "Accounts Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jlbfdl3f",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  24,
+                          "role":  "Purchase Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jkbis7dv",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  25,
+                          "role":  "Sales User",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79jngtvk64",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  26,
+                          "role":  "Report Manager",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "79j0bt4hn5",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 16:27:29.865427",
+                          "modified":  "2025-10-11 16:27:30.042681",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  27,
+                          "role":  "Prepared Report User",
+                          "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "79ku70sujh",
+                                  "owner":  "Administrator",
+                                  "creation":  "2025-10-11 16:27:30.006867",
+                                  "modified":  "2025-10-11 16:27:30.042681",
+                                  "modified_by":  "Administrator",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "11c1c69a0dee6edd2c8a662547401efae914d7b",
+                                  "parent":  "pubudu.ranasinghe@trizenlabs.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "shansanira@gmail.com",
+        "owner":  "Administrator",
+        "creation":  "2025-10-16 18:39:59.247504",
+        "modified":  "2026-01-10 12:04:00.888177",
+        "modified_by":  "Administrator",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "shansanira@gmail.com",
+        "first_name":  "Sanira",
+        "full_name":  "Sanira",
+        "username":  "sanira",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "user_image":  "https://secure.gravatar.com/avatar/c37ac96d55d86c287b102538a2ae18df?d=404\u0026s=200",
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "",
+        "last_reset_password_key_generated_on":  "2025-10-16 18:39:59.411648",
+        "last_password_reset_date":  "2025-10-16",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.7",
+        "login_after":  0,
+        "user_type":  "System User",
+        "last_active":  "2026-01-10 11:11:07.504155",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-01-10 11:11:01.471043",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "flov763aaa",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-16 18:39:59.247504",
+                          "modified":  "2026-01-10 12:04:00.888177",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "shansanira@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "fq8u4h1hvp",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-16 18:40:13.647920",
+                          "modified":  "2026-01-10 12:04:00.888177",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Moderator",
+                          "parent":  "shansanira@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "fqjuelkcot",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-16 18:40:14.773811",
+                          "modified":  "2026-01-10 12:04:00.888177",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  2,
+                          "role":  "Course Creator",
+                          "parent":  "shansanira@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "fqssuvr0t7",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-16 18:40:15.653289",
+                          "modified":  "2026-01-10 12:04:00.888177",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  3,
+                          "role":  "Batch Evaluator",
+                          "parent":  "shansanira@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "flo5kpr1s1",
+                                  "owner":  "Administrator",
+                                  "creation":  "2025-10-16 18:39:59.263637",
+                                  "modified":  "2026-01-10 12:04:00.888177",
+                                  "modified_by":  "Administrator",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "9a2569a6429a300a8bdb54941ed73848ab7fe2c",
+                                  "parent":  "shansanira@gmail.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "aron@enlighten.fr",
+        "owner":  "Administrator",
+        "creation":  "2025-10-17 08:46:22.448687",
+        "modified":  "2026-01-09 12:07:49.959653",
+        "modified_by":  "Administrator",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "aron@enlighten.fr",
+        "first_name":  "Aron",
+        "full_name":  "Aron",
+        "username":  "aron",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "9f22b40a536990ff88db513f6acefec1c84a9ff56f68b78004314257b4f01033",
+        "last_reset_password_key_generated_on":  "2025-10-17 08:46:22.675535",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.7",
+        "login_after":  0,
+        "user_type":  "System User",
+        "last_active":  "2026-01-10 11:17:46.777718",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-01-10 11:17:46.303165",
+        "last_known_versions":  "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"\", \"version\": \"15.85.1\"}, \"lms\": {\"title\": \"Frappe LMS\", \"description\": \"Frappe LMS App\", \"branch\": \"\", \"version\": \"2.38.0\"}}",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "vlnidsbqpe",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-17 08:46:29.571351",
+                          "modified":  "2026-01-09 12:07:49.959653",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Moderator",
+                          "parent":  "aron@enlighten.fr",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "vm13vto9o2",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-17 08:46:30.542447",
+                          "modified":  "2026-01-09 12:07:49.959653",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  2,
+                          "role":  "Course Creator",
+                          "parent":  "aron@enlighten.fr",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "vm9mcvntpb",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-17 08:46:31.394805",
+                          "modified":  "2026-01-09 12:07:49.959653",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  3,
+                          "role":  "Batch Evaluator",
+                          "parent":  "aron@enlighten.fr",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "jpr97smilu",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-17 08:46:22.448687",
+                          "modified":  "2026-01-09 12:07:49.959653",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  4,
+                          "role":  "Accounts User",
+                          "parent":  "aron@enlighten.fr",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "jpr63ljblq",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-17 08:46:22.448687",
+                          "modified":  "2026-01-09 12:07:49.959653",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  5,
+                          "role":  "Knowledge Base Editor",
+                          "parent":  "aron@enlighten.fr",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "jprbr6js88",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-17 08:46:22.448687",
+                          "modified":  "2026-01-09 12:07:49.959653",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  6,
+                          "role":  "Knowledge Base Contributor",
+                          "parent":  "aron@enlighten.fr",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "jprs8jvkrb",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-17 08:46:22.448687",
+                          "modified":  "2026-01-09 12:07:49.959653",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  7,
+                          "role":  "Blogger",
+                          "parent":  "aron@enlighten.fr",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "vjgl4ct10v",
+                                  "owner":  "Administrator",
+                                  "creation":  "2025-10-17 08:46:22.476603",
+                                  "modified":  "2026-01-09 12:07:49.959653",
+                                  "modified_by":  "Administrator",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "a0fb558d38badc7170a62cc39f4ac700e5d8723",
+                                  "parent":  "aron@enlighten.fr",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "pubudu@trizenlabs.com",
+        "owner":  "Administrator",
+        "creation":  "2026-01-10 11:38:23.482074",
+        "modified":  "2026-01-10 12:04:00.685787",
+        "modified_by":  "Administrator",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "pubudu@trizenlabs.com",
+        "first_name":  "Pubudu Test",
+        "full_name":  "Pubudu Test",
+        "username":  "pubudu_test",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "213a30b653d8644b263ae1569299160f4d0fac993ef5b5e0c614cd70b67696bd",
+        "last_reset_password_key_generated_on":  "2026-01-10 11:38:23.641535",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.7",
+        "login_after":  0,
+        "user_type":  "System User",
+        "last_active":  "2026-01-10 12:04:30.675878",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-01-10 12:04:29.907739",
+        "last_known_versions":  "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"\", \"version\": \"15.85.1\"}, \"lms\": {\"title\": \"Frappe LMS\", \"description\": \"Frappe LMS App\", \"branch\": \"\", \"version\": \"2.38.0\"}}",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "el57um7nf5",
+                          "owner":  "Administrator",
+                          "creation":  "2026-01-10 11:38:23.482074",
+                          "modified":  "2026-01-10 12:04:00.685787",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Course Creator",
+                          "parent":  "pubudu@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "el5obqosp7",
+                          "owner":  "Administrator",
+                          "creation":  "2026-01-10 11:38:23.482074",
+                          "modified":  "2026-01-10 12:04:00.685787",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  2,
+                          "role":  "Moderator",
+                          "parent":  "pubudu@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "e9ramclhp5",
+                                  "owner":  "Administrator",
+                                  "creation":  "2026-01-10 11:38:23.506487",
+                                  "modified":  "2026-01-10 12:04:00.685787",
+                                  "modified_by":  "Administrator",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "b03c01ed39b3bff6f62d7db672d5cd67b87247b",
+                                  "parent":  "pubudu@trizenlabs.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "richard@capilingua.com",
+        "owner":  "Administrator",
+        "creation":  "2026-03-02 16:10:03.336726",
+        "modified":  "2026-03-03 09:57:19.560816",
+        "modified_by":  "richard@capilingua.com",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "richard@capilingua.com",
+        "first_name":  "Ric",
+        "full_name":  "Ric",
+        "username":  "richardcapilinguacom",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "open_to":  "",
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "",
+        "last_reset_password_key_generated_on":  "2026-03-02 16:10:03.578739",
+        "last_password_reset_date":  "2026-03-03",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.4",
+        "login_after":  0,
+        "user_type":  "System User",
+        "last_active":  "2026-03-03 14:01:10.666439",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-03-03 09:57:19.406420",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "4niqv6vcrp",
+                          "owner":  "Administrator",
+                          "creation":  "2026-03-02 16:10:03.336726",
+                          "modified":  "2026-03-03 09:57:19.300181",
+                          "modified_by":  "richard@capilingua.com",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "richard@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "4p5r4neqke",
+                          "owner":  "Administrator",
+                          "creation":  "2026-03-02 16:10:08.563803",
+                          "modified":  "2026-03-03 09:57:19.300181",
+                          "modified_by":  "richard@capilingua.com",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Moderator",
+                          "parent":  "richard@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "4phhtj016v",
+                          "owner":  "Administrator",
+                          "creation":  "2026-03-02 16:10:09.714613",
+                          "modified":  "2026-03-03 09:57:19.300181",
+                          "modified_by":  "richard@capilingua.com",
+                          "docstatus":  0,
+                          "idx":  2,
+                          "role":  "Course Creator",
+                          "parent":  "richard@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "4pr0d06792",
+                          "owner":  "Administrator",
+                          "creation":  "2026-03-02 16:10:10.754092",
+                          "modified":  "2026-03-03 09:57:19.300181",
+                          "modified_by":  "richard@capilingua.com",
+                          "docstatus":  0,
+                          "idx":  3,
+                          "role":  "Batch Evaluator",
+                          "parent":  "richard@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "4nhq84ni8v",
+                                  "owner":  "Administrator",
+                                  "creation":  "2026-03-02 16:10:03.367973",
+                                  "modified":  "2026-03-03 09:57:19.300181",
+                                  "modified_by":  "richard@capilingua.com",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "43a35d709e25783af634d3f8d13867dee3de3ef",
+                                  "parent":  "richard@capilingua.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "kathryn@capilingua.com",
+        "owner":  "Administrator",
+        "creation":  "2026-02-10 16:07:06.469974",
+        "modified":  "2026-02-10 16:07:51.626298",
+        "modified_by":  "kathryn@capilingua.com",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "kathryn@capilingua.com",
+        "first_name":  "Kathryn",
+        "full_name":  "Kathryn",
+        "username":  "kathryn",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "open_to":  "",
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "",
+        "last_reset_password_key_generated_on":  "2026-02-10 16:07:06.866081",
+        "last_password_reset_date":  "2026-02-10",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.3",
+        "login_after":  0,
+        "user_type":  "System User",
+        "last_active":  "2026-04-02 15:22:53.777422",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-03-10 11:33:26.468820",
+        "last_known_versions":  "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"\", \"version\": \"15.100.0\"}, \"lms\": {\"title\": \"Frappe LMS\", \"description\": \"Frappe LMS App\", \"branch\": \"\", \"version\": \"2.44.0\"}}",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "o0ascc1cn4",
+                          "owner":  "Administrator",
+                          "creation":  "2026-02-10 16:07:06.469974",
+                          "modified":  "2026-02-10 16:07:50.927916",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "kathryn@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "o226iu72kp",
+                          "owner":  "Administrator",
+                          "creation":  "2026-02-10 16:07:12.213093",
+                          "modified":  "2026-02-10 16:07:50.927916",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Moderator",
+                          "parent":  "kathryn@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "o2cvm5eu13",
+                          "owner":  "Administrator",
+                          "creation":  "2026-02-10 16:07:13.284938",
+                          "modified":  "2026-02-10 16:07:50.927916",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  2,
+                          "role":  "Course Creator",
+                          "parent":  "kathryn@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "o2odgeusdl",
+                          "owner":  "Administrator",
+                          "creation":  "2026-02-10 16:07:14.412290",
+                          "modified":  "2026-02-10 16:07:50.927916",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  3,
+                          "role":  "Batch Evaluator",
+                          "parent":  "kathryn@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "o09in1pbid",
+                                  "owner":  "Administrator",
+                                  "creation":  "2026-02-10 16:07:06.566429",
+                                  "modified":  "2026-02-10 16:07:50.927916",
+                                  "modified_by":  "Guest",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "acd965c04dca7a1c7b0d7b5236cc1fb531c2d17",
+                                  "parent":  "kathryn@capilingua.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "aleixdir11@gmail.com",
+        "owner":  "Administrator",
+        "creation":  "2026-03-18 19:14:05.603880",
+        "modified":  "2026-03-19 22:09:03.107746",
+        "modified_by":  "Guest",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "aleixdir11@gmail.com",
+        "first_name":  "Aleix",
+        "full_name":  "Aleix",
+        "username":  "aleix",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "open_to":  "",
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "1e3ea870d4d40ed13fd6ed1d2a6e6b183571b9fa199175bdf9f3eb57585432cf",
+        "last_reset_password_key_generated_on":  "2026-03-19 22:09:03.107659",
+        "last_password_reset_date":  "2026-03-19",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.3",
+        "login_after":  0,
+        "user_type":  "Website User",
+        "last_active":  "2026-04-07 19:09:31.987126",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-04-01 13:24:06.653131",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "ci80fdli2i",
+                          "owner":  "Administrator",
+                          "creation":  "2026-03-18 19:14:05.603880",
+                          "modified":  "2026-03-19 20:15:36.696649",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "aleixdir11@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "ci868lbj7j",
+                                  "owner":  "Administrator",
+                                  "creation":  "2026-03-18 19:14:05.619989",
+                                  "modified":  "2026-03-19 20:15:36.696649",
+                                  "modified_by":  "Guest",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "ad3008fe99f26a7aab2deeffa110f9cf95ea6ed",
+                                  "parent":  "aleixdir11@gmail.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "okaye434@gmail.com",
+        "owner":  "Administrator",
+        "creation":  "2026-03-09 11:59:04.025538",
+        "modified":  "2026-03-09 12:01:35.047195",
+        "modified_by":  "okaye434@gmail.com",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "okaye434@gmail.com",
+        "first_name":  "Arthur",
+        "full_name":  "Arthur",
+        "username":  "arthur",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "open_to":  "",
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "",
+        "last_reset_password_key_generated_on":  "2026-03-09 11:59:04.293454",
+        "last_password_reset_date":  "2026-03-09",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.3",
+        "login_after":  0,
+        "user_type":  "Website User",
+        "last_active":  "2026-04-07 21:16:45.709084",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-03-17 19:51:17.195789",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "3thifhqck9",
+                          "owner":  "Administrator",
+                          "creation":  "2026-03-09 11:59:04.025538",
+                          "modified":  "2026-03-09 12:01:34.789609",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "okaye434@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "3tgmt8q9m5",
+                                  "owner":  "Administrator",
+                                  "creation":  "2026-03-09 11:59:04.059848",
+                                  "modified":  "2026-03-09 12:01:34.789609",
+                                  "modified_by":  "Guest",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "5829f1c234027892f6b330e09c778b26afd3d81",
+                                  "parent":  "okaye434@gmail.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "alonsogarciadavid03@gmail.com",
+        "owner":  "Administrator",
+        "creation":  "2026-03-18 19:13:04.919936",
+        "modified":  "2026-04-01 14:12:39.494336",
+        "modified_by":  "alonsogarciadavid03@gmail.com",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "alonsogarciadavid03@gmail.com",
+        "first_name":  "David",
+        "full_name":  "David",
+        "username":  "david",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "open_to":  "",
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "",
+        "last_reset_password_key_generated_on":  "2026-04-01 14:12:05.637947",
+        "last_password_reset_date":  "2026-04-01",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.3",
+        "login_after":  0,
+        "user_type":  "Website User",
+        "last_active":  "2026-04-09 18:27:06.727278",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-04-09 17:59:37.792089",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "bv96v5aa6o",
+                          "owner":  "Administrator",
+                          "creation":  "2026-03-18 19:13:04.919936",
+                          "modified":  "2026-04-01 14:12:39.090916",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "alonsogarciadavid03@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "bv9kdo3psr",
+                                  "owner":  "Administrator",
+                                  "creation":  "2026-03-18 19:13:04.936455",
+                                  "modified":  "2026-04-01 14:12:39.090916",
+                                  "modified_by":  "Guest",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "57bb05b13da1df53c85fdfe88fd6778501cbc93",
+                                  "parent":  "alonsogarciadavid03@gmail.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "sanira@trizenlabs.com",
+        "owner":  "Administrator",
+        "creation":  "2026-04-18 13:49:28.790924",
+        "modified":  "2026-04-18 14:01:10.166250",
+        "modified_by":  "sanira@trizenlabs.com",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "sanira@trizenlabs.com",
+        "first_name":  "Sanira Trizen",
+        "full_name":  "Sanira Trizen",
+        "username":  "sanira_trizen",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "open_to":  "",
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "",
+        "last_reset_password_key_generated_on":  "2026-04-18 13:49:28.995414",
+        "last_password_reset_date":  "2026-04-18",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.3",
+        "login_after":  0,
+        "user_type":  "System User",
+        "last_active":  "2026-04-18 16:49:29.242800",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-04-18 14:10:18.935028",
+        "last_known_versions":  "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"\", \"version\": \"15.101.5\"}, \"lms\": {\"title\": \"Frappe LMS\", \"description\": \"Frappe LMS App\", \"branch\": \"\", \"version\": \"2.44.0\"}}",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "nhd2f6370m",
+                          "owner":  "Administrator",
+                          "creation":  "2026-04-18 13:49:37.383461",
+                          "modified":  "2026-04-18 14:01:09.857576",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Moderator",
+                          "parent":  "sanira@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "nhu4e59v68",
+                          "owner":  "Administrator",
+                          "creation":  "2026-04-18 13:49:39.045350",
+                          "modified":  "2026-04-18 14:01:09.857576",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  2,
+                          "role":  "Course Creator",
+                          "parent":  "sanira@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "niv2mtloqr",
+                          "owner":  "Administrator",
+                          "creation":  "2026-04-18 13:49:42.384078",
+                          "modified":  "2026-04-18 14:01:09.857576",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  3,
+                          "role":  "Batch Evaluator",
+                          "parent":  "sanira@trizenlabs.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "neo4dugd2o",
+                                  "owner":  "Administrator",
+                                  "creation":  "2026-04-18 13:49:28.808378",
+                                  "modified":  "2026-04-18 14:01:09.857576",
+                                  "modified_by":  "Guest",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "edf325bab2e4bbd093f2cc18c83d12b29b7676c",
+                                  "parent":  "sanira@trizenlabs.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "aronblewin@gmail.com",
+        "owner":  "Administrator",
+        "creation":  "2025-10-17 08:48:08.178565",
+        "modified":  "2026-01-10 12:04:00.968163",
+        "modified_by":  "Administrator",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "aronblewin@gmail.com",
+        "first_name":  "Aron Personal",
+        "full_name":  "Aron Personal",
+        "username":  "aron_personal",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "",
+        "last_reset_password_key_generated_on":  "2025-10-17 08:48:08.338679",
+        "last_password_reset_date":  "2025-10-17",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.3",
+        "login_after":  0,
+        "user_type":  "System User",
+        "last_active":  "2026-04-23 20:06:01.299659",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-04-02 20:58:06.096159",
+        "last_known_versions":  "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"\", \"version\": \"15.85.1\"}, \"lms\": {\"title\": \"Frappe LMS\", \"description\": \"Frappe LMS App\", \"branch\": \"\", \"version\": \"2.38.0\"}}",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "0lr6t637mc",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-17 08:48:12.354799",
+                          "modified":  "2026-01-10 12:04:00.968163",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Batch Evaluator",
+                          "parent":  "aronblewin@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "0m66hac7mk",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-17 08:48:13.455727",
+                          "modified":  "2026-01-10 12:04:00.968163",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  2,
+                          "role":  "Course Creator",
+                          "parent":  "aronblewin@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "0mk86jfijo",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-17 08:48:14.845434",
+                          "modified":  "2026-01-10 12:04:00.968163",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  3,
+                          "role":  "Moderator",
+                          "parent":  "aronblewin@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "0khildktht",
+                                  "owner":  "Administrator",
+                                  "creation":  "2025-10-17 08:48:08.193695",
+                                  "modified":  "2026-01-10 12:04:00.968163",
+                                  "modified_by":  "Administrator",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "2ab78856c2dacdb916ac5fcde619c48b3651aa0",
+                                  "parent":  "aronblewin@gmail.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "fiona@capilingua.com",
+        "owner":  "Administrator",
+        "creation":  "2026-01-29 14:33:27.416317",
+        "modified":  "2026-02-02 15:55:02.637539",
+        "modified_by":  "fiona@capilingua.com",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "fiona@capilingua.com",
+        "first_name":  "Fiona",
+        "full_name":  "Fiona",
+        "username":  "fiona",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "open_to":  "",
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "",
+        "last_reset_password_key_generated_on":  "2026-02-02 15:54:01.071565",
+        "last_password_reset_date":  "2026-02-02",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.3",
+        "login_after":  0,
+        "user_type":  "System User",
+        "last_active":  "2026-04-24 14:45:53.779272",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-04-17 15:51:55.055923",
+        "last_known_versions":  "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"\", \"version\": \"15.101.5\"}, \"lms\": {\"title\": \"Frappe LMS\", \"description\": \"Frappe LMS App\", \"branch\": \"\", \"version\": \"2.44.0\"}}",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "cb7jv81gm8",
+                          "owner":  "Administrator",
+                          "creation":  "2026-03-18 11:02:11.911278",
+                          "modified":  "2026-03-18 11:02:11.911278",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Moderator",
+                          "parent":  "fiona@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "k4a41cg427",
+                          "owner":  "Administrator",
+                          "creation":  "2026-01-29 14:33:27.416317",
+                          "modified":  "2026-02-02 15:55:02.323468",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "fiona@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "k5tkanc2qa",
+                          "owner":  "Administrator",
+                          "creation":  "2026-01-29 14:33:32.507229",
+                          "modified":  "2026-02-02 15:55:02.323468",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Course Creator",
+                          "parent":  "fiona@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "k69khu433o",
+                          "owner":  "Administrator",
+                          "creation":  "2026-01-29 14:33:33.719623",
+                          "modified":  "2026-02-02 15:55:02.323468",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  2,
+                          "role":  "Batch Evaluator",
+                          "parent":  "fiona@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "k4adiu6e9c",
+                                  "owner":  "Administrator",
+                                  "creation":  "2026-01-29 14:33:27.449433",
+                                  "modified":  "2026-02-02 15:55:02.323468",
+                                  "modified_by":  "Guest",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "e28f240a0d71fd663eb73081c79cbdd77e93d16",
+                                  "parent":  "fiona@capilingua.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "lepeltiermarguerite@gmail.com",
+        "owner":  "Administrator",
+        "creation":  "2026-04-21 15:53:53.678491",
+        "modified":  "2026-04-21 15:58:47.426993",
+        "modified_by":  "lepeltiermarguerite@gmail.com",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "lepeltiermarguerite@gmail.com",
+        "first_name":  " Marguerite Lepeltier",
+        "full_name":  " Marguerite Lepeltier",
+        "username":  "_marguerite_lepeltier",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "open_to":  "",
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "",
+        "last_reset_password_key_generated_on":  "2026-04-21 15:53:53.959727",
+        "last_password_reset_date":  "2026-04-21",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.3",
+        "login_after":  0,
+        "user_type":  "Website User",
+        "last_active":  "2026-04-26 18:13:44.666104",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-04-21 18:06:30.491237",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "3jils65nn0",
+                          "owner":  "Administrator",
+                          "creation":  "2026-04-21 15:53:53.678491",
+                          "modified":  "2026-04-21 15:58:46.983208",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "lepeltiermarguerite@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "3jhs128p2f",
+                                  "owner":  "Administrator",
+                                  "creation":  "2026-04-21 15:53:53.727151",
+                                  "modified":  "2026-04-21 15:58:46.983208",
+                                  "modified_by":  "Guest",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "ec9422530aef014754ed6fcf7133b578c76876e",
+                                  "parent":  "lepeltiermarguerite@gmail.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "caitrin@capilingua.com",
+        "owner":  "Administrator",
+        "creation":  "2026-01-29 14:32:35.256745",
+        "modified":  "2026-03-20 16:21:59.910026",
+        "modified_by":  "caitrin@capilingua.com",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "caitrin@capilingua.com",
+        "first_name":  "Caitrin",
+        "middle_name":  "",
+        "last_name":  "Lepeltier",
+        "full_name":  "Caitrin Lepeltier",
+        "username":  "caitrin",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "open_to":  "",
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "user_image":  "",
+        "phone":  "",
+        "mobile_no":  "0033699614864",
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "",
+        "last_reset_password_key_generated_on":  "2026-03-20 16:21:05.311453",
+        "last_password_reset_date":  "2026-03-20",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.3",
+        "login_after":  0,
+        "user_type":  "System User",
+        "last_active":  "2026-04-27 12:24:38.327425",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-04-10 12:55:17.858544",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "jk1b2o6omj",
+                          "owner":  "Administrator",
+                          "creation":  "2026-01-29 14:32:35.256745",
+                          "modified":  "2026-03-20 16:21:59.474822",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "caitrin@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "jmf05861t1",
+                          "owner":  "Administrator",
+                          "creation":  "2026-01-29 14:32:43.193097",
+                          "modified":  "2026-03-20 16:21:59.474822",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Batch Evaluator",
+                          "parent":  "caitrin@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "u0arm4c0nq",
+                          "owner":  "Administrator",
+                          "creation":  "2026-03-19 22:07:38.599523",
+                          "modified":  "2026-03-20 16:21:59.474822",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Moderator",
+                          "parent":  "caitrin@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "jn4m9h2sh0",
+                          "owner":  "Administrator",
+                          "creation":  "2026-01-29 14:32:45.217468",
+                          "modified":  "2026-03-20 16:21:59.474822",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  2,
+                          "role":  "Course Creator",
+                          "parent":  "caitrin@capilingua.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "jk0ja4uv7a",
+                                  "owner":  "Administrator",
+                                  "creation":  "2026-01-29 14:32:35.292410",
+                                  "modified":  "2026-03-20 16:21:59.474822",
+                                  "modified_by":  "Guest",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "2cb2ebd7c68e08233e4d9c7bd995ef47d63542a",
+                                  "parent":  "caitrin@capilingua.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "jordipretel2003@gmail.com",
+        "owner":  "Administrator",
+        "creation":  "2026-03-18 19:13:33.723135",
+        "modified":  "2026-03-31 20:38:43.330005",
+        "modified_by":  "jordipretel2003@gmail.com",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "jordipretel2003@gmail.com",
+        "first_name":  "Jordi",
+        "full_name":  "Jordi",
+        "username":  "jordi",
+        "country":  "Spain",
+        "verify_terms":  0,
+        "open_to":  "",
+        "language":  "en-GB",
+        "time_zone":  "Europe/Stockholm",
+        "user_category":  "",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "attire":  "Casual Wear",
+        "collaboration":  "Individual Work",
+        "role":  "Clearly Defined Role",
+        "location_preference":  "Travel",
+        "time":  "Flexible Time",
+        "company_type":  "Corporate Organization",
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "reset_password_key":  "",
+        "last_reset_password_key_generated_on":  "2026-03-31 20:38:20.098587",
+        "last_password_reset_date":  "2026-03-31",
+        "redirect_url":  "",
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  1,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.3",
+        "login_after":  0,
+        "user_type":  "Website User",
+        "last_active":  "2026-04-27 22:13:07.486325",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-04-27 20:12:25.082861",
+        "onboarding_status":  "{}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "c89dpeam2e",
+                          "owner":  "Administrator",
+                          "creation":  "2026-03-18 19:13:33.723135",
+                          "modified":  "2026-03-31 20:38:42.894490",
+                          "modified_by":  "Guest",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "LMS Student",
+                          "parent":  "jordipretel2003@gmail.com",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+                              {
+                                  "name":  "c897cnupm4",
+                                  "owner":  "Administrator",
+                                  "creation":  "2026-03-18 19:13:33.739013",
+                                  "modified":  "2026-03-31 20:38:42.894490",
+                                  "modified_by":  "Guest",
+                                  "docstatus":  0,
+                                  "idx":  1,
+                                  "provider":  "frappe",
+                                  "userid":  "31d9555c0c0d1db2214bf204047da2bcecd916f",
+                                  "parent":  "jordipretel2003@gmail.com",
+                                  "parentfield":  "social_logins",
+                                  "parenttype":  "User",
+                                  "doctype":  "User Social Login"
+                              }
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    },
+    {
+        "name":  "Administrator",
+        "owner":  "Administrator",
+        "creation":  "2025-10-11 19:38:26.379331",
+        "modified":  "2025-10-11 16:27:30.326193",
+        "modified_by":  "Administrator",
+        "docstatus":  0,
+        "idx":  0,
+        "enabled":  1,
+        "email":  "admin@example.com",
+        "first_name":  "Administrator",
+        "full_name":  "Administrator",
+        "username":  "administrator",
+        "verify_terms":  0,
+        "time_zone":  "Europe/Stockholm",
+        "send_welcome_email":  1,
+        "unsubscribed":  0,
+        "hide_private":  0,
+        "mute_sounds":  0,
+        "desk_theme":  "Light",
+        "search_bar":  1,
+        "notifications":  1,
+        "list_sidebar":  1,
+        "bulk_actions":  1,
+        "view_switcher":  1,
+        "form_sidebar":  1,
+        "timeline":  1,
+        "dashboard":  1,
+        "new_password":  "",
+        "logout_all_sessions":  1,
+        "document_follow_notify":  0,
+        "document_follow_frequency":  "Daily",
+        "follow_created_documents":  0,
+        "follow_commented_documents":  0,
+        "follow_liked_documents":  0,
+        "follow_assigned_documents":  0,
+        "follow_shared_documents":  0,
+        "thread_notify":  0,
+        "send_me_a_copy":  0,
+        "allowed_in_mentions":  1,
+        "simultaneous_sessions":  2,
+        "last_ip":  "172.18.0.3",
+        "login_after":  0,
+        "user_type":  "System User",
+        "last_active":  "2026-04-27 22:19:02.619597",
+        "login_before":  0,
+        "bypass_restrict_ip_check_if_2fa_enabled":  0,
+        "last_login":  "2026-04-27 22:19:02.336591",
+        "last_known_versions":  "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"\", \"version\": \"15.85.1\"}, \"lms\": {\"title\": \"Frappe LMS\", \"description\": \"Frappe LMS App\", \"branch\": \"\", \"version\": \"2.38.0\"}}",
+        "onboarding_status":  "{\"learning_onboarding_status\": [{\"name\": \"create_first_course\", \"completed\": true}, {\"name\": \"create_first_chapter\", \"completed\": true}, {\"name\": \"create_first_lesson\", \"completed\": true}, {\"name\": \"create_first_quiz\", \"completed\": true}, {\"name\": \"invite_students\", \"completed\": true}, {\"name\": \"create_first_batch\", \"completed\": true}, {\"name\": \"add_batch_student\", \"completed\": true}, {\"name\": \"add_batch_course\", \"completed\": true}]}",
+        "doctype":  "User",
+        "block_modules":  [
+
+                          ],
+        "user_emails":  [
+
+                        ],
+        "roles":  [
+                      {
+                          "name":  "s9c1gcelk9",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:42.874033",
+                          "modified":  "2025-10-11 19:38:42.874033",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Course Creator",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s9chcff1se",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:42.877413",
+                          "modified":  "2025-10-11 19:38:42.877413",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  2,
+                          "role":  "Moderator",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s9cmgnvv32",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:42.880857",
+                          "modified":  "2025-10-11 19:38:42.880857",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  3,
+                          "role":  "Batch Evaluator",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s46n586ci0",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.380263",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  1,
+                          "role":  "Administrator",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fdpf3k1b",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  2,
+                          "role":  "Sales Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4f5pancaf",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  3,
+                          "role":  "Maintenance Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4f2jeon52",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  4,
+                          "role":  "Maintenance User",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4f4e98anj",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  5,
+                          "role":  "Purchase Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fh1h0tjl",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  6,
+                          "role":  "Purchase Master Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fsfpe303",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  7,
+                          "role":  "Sales Master Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fk1ujj6u",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  8,
+                          "role":  "Accounts Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4figqmvi5",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  9,
+                          "role":  "Accounts User",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fn8jrkr8",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  10,
+                          "role":  "Purchase User",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fpov1np8",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  11,
+                          "role":  "Sales User",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4f335dtq1",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  12,
+                          "role":  "Newsletter Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fmfn5mm8",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  13,
+                          "role":  "Knowledge Base Editor",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fkqtaqdv",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  14,
+                          "role":  "Knowledge Base Contributor",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4feacuhas",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  15,
+                          "role":  "Blogger",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fp836r64",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  16,
+                          "role":  "Translator",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fsg60dhd",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  17,
+                          "role":  "Prepared Report User",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fjeoofqq",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  18,
+                          "role":  "Inbox User",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fg2aaruh",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  19,
+                          "role":  "Script Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4f4ptklep",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  20,
+                          "role":  "Report Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fkuo8sj1",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  21,
+                          "role":  "Workspace Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4ffeag8ur",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  22,
+                          "role":  "Dashboard Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fhkvp0li",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  23,
+                          "role":  "Website Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4f78ij84h",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  24,
+                          "role":  "Guest",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fll3mqgh",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  25,
+                          "role":  "System Manager",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fuo7cfn3",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  26,
+                          "role":  "All",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      },
+                      {
+                          "name":  "s4fqcu0c66",
+                          "owner":  "Administrator",
+                          "creation":  "2025-10-11 19:38:26.379331",
+                          "modified":  "2025-10-11 19:38:27.121148",
+                          "modified_by":  "Administrator",
+                          "docstatus":  0,
+                          "idx":  27,
+                          "role":  "Desk User",
+                          "parent":  "Administrator",
+                          "parentfield":  "roles",
+                          "parenttype":  "User",
+                          "doctype":  "Has Role"
+                      }
+                  ],
+        "preferred_industries":  [
+
+                                 ],
+        "internship":  [
+
+                       ],
+        "preferred_functions":  [
+
+                                ],
+        "social_logins":  [
+
+                          ],
+        "certification":  [
+
+                          ],
+        "work_experience":  [
+
+                            ],
+        "education":  [
+
+                      ],
+        "skill":  [
+
+                  ],
+        "defaults":  [
+
+                     ]
+    }
+]
